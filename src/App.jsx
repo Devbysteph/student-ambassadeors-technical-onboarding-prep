@@ -26,7 +26,7 @@ import "./styles.css";
 const siteProps = {
   name: "Stephen Praise Agboola",
   title: "Web Designer & Content Creator",
-  email: "alex@example.com",
+  email: "agboola.stephenpraise@studentambassador.com",
   gitHub: "microsoft",
   instagram: "microsoft",
   linkedIn: "satyanadella",
